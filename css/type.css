@@ -1,0 +1,165 @@
+
+
+
+
+
+body{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Abel', sans-serif;
+}
+
+
+.nav-item {
+    margin: 10px;
+}
+
+
+
+.title {
+   font-size: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.subtitle {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    font-size: .875rem;
+    text-align: center;
+}
+
+
+
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
+.playfair-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.lora-title{
+    font-family: 'Lora', serif;
+    font-weight: 400;
+}
+
+
+.abel-title{
+    font-family: 'Abel', sans-serif;
+    font-weight: 400;
+}
+
+
+p.lora{
+    font-family: 'Lora', serif;
+}
+p.abel{
+    font-family: 'Abel', sans-serif;
+}
+p.abel-emph{
+    font-weight: 700;
+}
+
+h1.lora{
+    font-family: 'Lora', serif; 
+    font-size: 3.052rem;
+    font-weight: 700;
+}
+
+h2.lora{
+    font-family: 'Lora', serif; 
+    font-size: 2.441rem;
+    font-weight: 650;
+}
+
+h3.lora{
+    font-family: 'Lora', serif; 
+    font-size: 1.953;
+    font-weight: 600;
+}
+
+h4.lora{
+    font-family: 'Lora', serif; 
+    font-size: 1.563;
+    font-weight: 550;
+}
+
+
+p.playfair{
+    font-family: 'Playfair Display', serif; 
+}
+
+p.playfair-emph{
+    font-weight: 700;
+}
+
+h1.playfair{
+    font-family: 'Playfair Display', serif;
+    font-size: 2.488rem;
+    font-weight: 700;
+}
+
+h2.playfair{
+    font-family: 'Playfair Display', serif;
+    font-size: 2.074rem;
+    font-weight: 650;
+}
+
+h3.playfair{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.728rem;
+    font-weight: 600;
+}
+
+h4.playfair{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.44rem;
+    font-weight: 550;
+}
+
+p.nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1.nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 3.052rem;
+    font-weight: 700;
+}
+
+h2.nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2.441rem;
+    font-weight: 650;
+}
+
+h3.nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 1.953rem;
+    font-weight: 600;
+}
+
+h4.nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 1.563rem;
+    font-weight: 550;
+}
+
+p.nanum-emph{
+    font-weight: 700;
+}
+
+.footer {
+    background-color: #222222 !important;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 40px;
+    height: 30px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
